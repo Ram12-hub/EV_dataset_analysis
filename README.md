@@ -4,7 +4,7 @@ EV Data Analysis using Python — Filtered and analyzed electric vehicle data ba
 🚗 Electric Vehicle (EV) Data Analysis using Python
 This project analyzes electric vehicle (EV) data to uncover insights about pricing, battery capacity, range, and energy consumption. The goal is to help customers identify the best EV options based on their budget and performance needs.
 
-📂 Project Overview
+# Project Overview
 Data Cleaning and Preparation
 
 Imported data from an Excel file.
@@ -27,12 +27,12 @@ Battery Capacity vs Range Relationship
 
 Created a scatter plot showing a positive correlation between battery capacity and range.
 Found that higher battery capacities generally result in longer driving ranges.
-📊 Tech Stack
+**Tech Stack**
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
 Scipy
-🚀 Insights and Recommendations
+ # Insights and Recommendations
 ✔️ Tesla and Volkswagen offer the best range within a 350,000 PLN budget.
 ✔️ Audi and BMW lead in battery capacity but come at a higher cost.
 ✔️ Efficiency and customer-specific requirements affect performance beyond battery size alone.
