@@ -1,7 +1,7 @@
 # EV_dataset_analysis
 EV Data Analysis using Python — Filtered and analyzed electric vehicle data based on budget and performance. Grouped manufacturers, detected outliers in energy consumption, and explored the correlation between battery capacity and range. Built using Pandas, NumPy, Matplotlib, and Seaborn.
 
-🚗 Electric Vehicle (EV) Data Analysis using Python
+Electric Vehicle (EV) Data Analysis using Python
 This project analyzes electric vehicle (EV) data to uncover insights about pricing, battery capacity, range, and energy consumption. The goal is to help customers identify the best EV options based on their budget and performance needs.
 
 # Project Overview
